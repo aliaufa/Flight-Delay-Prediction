@@ -1,0 +1,9 @@
+streamlit
+pandas<2.0.0
+seaborn
+matplotlib
+plotly
+Pillow
+altair
+scikit-learn==1.2.2
+category-encoders
